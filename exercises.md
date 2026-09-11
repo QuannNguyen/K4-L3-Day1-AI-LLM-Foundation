@@ -27,7 +27,10 @@ mỗi lần trung bình ~350 token đầu ra.
 
 **Ước tính GPT-4o đắt hơn GPT-4o-mini bao nhiêu lần cho workload này? Nêu một
 trường hợp GPT-4o xứng đáng với chi phí và một trường hợp nên dùng mini:**
-> *Câu trả lời của bạn*
+> *GPT-4o có chi phí output khoảng 6–7 lần GPT-4o-mini cho cùng lượng token. 
+    - Nên dùng GPT-4o: các tác vụ quan trọng như xử lý khiếu nại phức tạp, phân tích yêu cầu khách hàng hoặc trả lời cần độ chính xác và khả năng suy luận cao.
+    - Nên dùng GPT-4o-mini: FAQ, tra cứu thông tin đơn hàng, phân loại câu hỏi và các yêu cầu đơn giản với số lượng lớn, vì chi phí thấp hơn đáng kể.
+    *
 
 ---
 
